@@ -1,0 +1,25 @@
+{"noiseKey":{"private":{"type":"Buffer","data":"KLwjE+q3mcPqwIvUDrmbGbWfCdUldv+JVx2kZXbbtGk="},"public":{"type":"Buffer","data":"83rfOg7X1y/zMLUeWOcvI65zHy4ijbKBfOdPauOI0Sk="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"OJsbx5l2J0BN0ATj5snuySyPM1DyuUqU5nitJwCJH1g="},"public":{"type":"Buffer","data":"lNsKsCJ05F99EuxnR9aVLQ1atHz0OqhSbSOHa9MB3Qk="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"qPTdIxdQnDuz83XzY4DwLPJVqGBp7b5xA05KFVLUzVY="},"public":{"type":"Buffer","data":"nfKtlvuSk+bj+kNkWQdvCr4fDV36tmJjCtexESSYxTo="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"SFj+nSgBQB8xN7CoTMWV2rOeF6cHGyDssqHVgHgJaXM="},"public":{"type":"Buffer","data":"gmHXtx3EXYYH9OLUVvBThuJ7AfzNqIaazaHrENu6sF0="}},"signature":{"type":"Buffer","data":"dVpYYfnG4Zc40sy4+7sBIlziVY1kyW9MObbFlSbOUY6KOX3/qSGG4emlyESv0pcQUSJPeNkJRYrqAbGMS8RzCA=="},"keyId":1},"registrationId":6,"advSecretKey":"quR7QQe7nxW6GittEimo+KNedbKfqKOp7z2H7OVEMuM=","processedHistoryMessages":[{"key":{"remoteJid":"923207253448@s.whatsapp.net","fromMe":true,"id":"A50543F2930BE7F2633216FD662F4BA3"},"messageTimestamp":1759547059},{"key":{"remoteJid":"923207253448@s.whatsapp.net","fromMe":true,"id":"A5704FBA76AB732A0658BB7198C474F9"},"messageTimestamp":1759547060},{"key":{"remoteJid":"923207253448@s.whatsapp.net","fromMe":true,"id":"A57772587C4FBDDEAEF5F00E22B6A813"},"messageTimestamp":1759547075}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":1,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"S22H3PJL","me":{"id":"923207253448:35@s.whatsapp.net","name":"Powerful Soul Energy","lid":"131611286868197:35@lid"},"account":{"details":"CMvdmK4DEKWdgscGGAMgACgA","accountSignatureKey":"coONoouHbUPKuCXJLNIKVlrxYJYlS7tjlM14GARArCI=","accountSignature":"TGxYtDWH/0M5yjcL1Erk2QEn4lWA4GPrJEeBqmL1y45YdkPjFSXkAxVep/WmGSRRUUK3nUimUz9LY1P+AG1bBw==","deviceSignature":"T+rYHEehxHb5jsiTdC5xu3Y1IfbAN40a25rnDu5oRvE0ssKMO6mxohpwe6keOi9wqsLFcrHmdWpNfMnY/29cBg=="},"signalIdentities":[{"identifier":{"name":"923207253448:35@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BXKDjaKLh21DyrglySzSClZa8WCWJUu7Y5TNeBgEQKwi"}}],"platform":"smba","routingInfo":{"type":"Buffer","data":"CAIIDQ=="},"lastAccountSyncTimestamp":1759547194,"lastPropHash":"1K4hH4","myAppStateKeyId":"AAAAAF+L"}rxYJYlS7tjlM14GARArCI=",
+    "accountSignature": "TGxYtDWH/0M5yjcL1Erk2QEn4lWA4GPrJEeBqmL1y45YdkPjFSXkAxVep/WmGSRRUUK3nUimUz9LY1P+AG1bBw==",
+    "deviceSignature": "T+rYHEehxHb5jsiTdC5xu3Y1IfbAN40a25rnDu5oRvE0ssKMO6mxohpwe6keOi9wqsLFcrHmdWpNfMnY/29cBg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923207253448:35@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXKDjaKLh21DyrglySzSClZa8WCWJUu7Y5TNeBgEQKwi"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIIDQ=="
+  },
+  "lastAccountSyncTimestamp": 1759547194,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAF+L"
+}
